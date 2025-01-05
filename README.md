@@ -21,6 +21,12 @@
 ![image](https://github.com/user-attachments/assets/042ff9c6-9aaf-42a5-8b08-09eb6413760d)
 ![image](https://github.com/user-attachments/assets/a19a02bf-6e71-45c9-8521-a619b9e26228)
 
+# peering connection in RT
+![image](https://github.com/user-attachments/assets/e979262a-ce8a-403e-b03c-e7e69d767af4)
+![image](https://github.com/user-attachments/assets/149ca65c-e456-4a9a-acf0-2a0401ddc928)
+
+
+
 
 
 
