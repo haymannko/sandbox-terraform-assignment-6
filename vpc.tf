@@ -1,3 +1,11 @@
+
+data "aws_availability_zones" "available" {
+    state = "available"
+  
+}
+
+
+
 resource "aws_vpc" "peering_vpc1" {
   cidr_block       = var.peering_vpc1.cidr
   instance_tenancy = "default"
@@ -63,7 +71,7 @@ resource "aws_route_table" "public-rt" {
   }
 
   tags = {
-    Name = "public-RT"
+    Name = var.public_RT
   }
 }
 
@@ -77,7 +85,7 @@ resource "aws_route_table" "private-rt" {
   
 
   tags = {
-    Name = "private-RT-confirm"
+    Name = var.private_RT
   }
 }
 

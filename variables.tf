@@ -41,3 +41,13 @@ variable "cidr_for_private_subnet" {
 variable "name_for_private_subnet" {
     default = "private_subnet_1"
 }
+
+variable "public_RT" {
+  default = "My_public_RT"
+  
+}
+
+variable "private_RT" {
+  default = "My_private_RT"
+  
+}
