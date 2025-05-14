@@ -1,4 +1,4 @@
-# sandbox-terraform-assignment-6
+# sandbox-terraform-assignment-6 VPC Peering
 
 # ping from public server
 ![photo_2025-01-05_21-29-14](https://github.com/user-attachments/assets/449e6bb1-88a8-48c7-af1d-95678a39e269)
