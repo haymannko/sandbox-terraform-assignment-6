@@ -1,0 +1,15 @@
+{
+  "name": "mygame-api",
+  "version": "1.0.0",
+  "description": "MyGame API - Node.js application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "haymannko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
